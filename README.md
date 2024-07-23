@@ -62,10 +62,15 @@ Security: SSL encryption and analytics tools for insights.
 A state-of-the-art centrifugation solution tailored to meet the demands of contemporary laboratory workflows. Features include:
 
 ->Robust Motor and Advanced Rotor System: Ensures swift and precise processing of micro-volume samples.
+
 ->Versatility: Accommodates various tube sizes with an intuitive control panel.
+
 ->High-Speed Performance: Crucial for time-sensitive experiments.
+
 ->Safety Features: Lid-locking and imbalance detection for secure usage.
+
 ->Compact Design: Optimizes bench space with quiet operation.
+
 ->Ideal Applications: DNA/RNA extraction, protein purification, and sample preparation in molecular biology, genomics, and biochemistry research.
 
 ### Customer Reviews
@@ -73,11 +78,17 @@ Our laboratory recently integrated the Laboratory Microcentrifuge Centra-5X into
 
 ### Blogs
 Our e-commerce platform redefines laboratory equipment procurement with a focus on efficiency, user-centric design, and transparency. Key features include:
+
 ->Streamlined Search System: Ensures swift access to specific tools.
+
 ->User-Friendly Interface: Prioritizes simplicity and informed decision-making.
+
 ->Personalization: User accounts tailor the procurement process.
+
 ->Robust Security Measures: SSL encryption to fortify transactions.
+
 ->Supplier Integration: Provides real-time updates.
+
 ->Continuous Innovation: Promises future enhancements.
 
 ### Footer
@@ -103,9 +114,13 @@ Meet Lexi, our chatbot developed using IBM Watson Studio. Lexi is designed to as
 
 ## Future Enhancements
 As we continue to develop our platform, we plan to:
+
 ->Enable payment processing.
+
 ->Enhance product recommendation systems.
+
 ->Improve real-time supplier integration.
+
 ->Expand the chatbot capabilities for better user support.
 
 ## Thank you for exploring our project. We look forward to your feedback and contributions!
